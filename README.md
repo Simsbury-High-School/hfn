@@ -6,7 +6,7 @@ Programming Language. hfn is written in the Haskell programming language. To
 learn more about FN, consult the FN Doc GitHub repository which may be cloned
 with
 
-    git clone https://www.github.com/fnlang/fndoc.git
+    git clone git@github.com:fnlang/fndoc.git
 
 
 Documentation
@@ -38,7 +38,7 @@ This directory contains version 1.0-git of the source code for hfn.
 
 The latest version of hfn may be obtained with git, using
 
-    git clone https://www.github.com/fnlang/hfn.git
+    git clone git@github.com:fnlang/hfn.git
 
 
 Licensing
@@ -51,4 +51,4 @@ information, see the file COPYING.
 Authors
 -------
 
-This version of hfn is the sole work of Jack Pugmire.
+This version of hfn is the sole work of Jack Puggles.
